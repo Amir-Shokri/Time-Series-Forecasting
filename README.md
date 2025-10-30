@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=c709dcff&center=true&vCenter=true&width=600&lines=Welcome+to+Advanced+Time+Series;Forecasting;" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=32E8ED&center=true&vCenter=true&width=600&lines=Welcome+to+Advanced+Time+Series;Forecasting;" alt="Typing Animation" />
 </div>
 
 ---
