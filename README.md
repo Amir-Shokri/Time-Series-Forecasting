@@ -24,6 +24,6 @@
 <div align="center">
   
 <div style="margin: 20px 0;">
-  <img src="./assets1/Time Series Forecasting2.png" width="1000" height="400"  style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);">
+  <img src="./assets1/Time Series Forecasting2.png" width="1000" height="450"  style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);">
   
 </div>
