@@ -8,7 +8,7 @@
 
 <p align="justify"> 
   
-This project is a forecast of the overall index of the Iran Stock Exchange.  .</p>
+This project is a forecast of the overall index of the Iran Stock Exchange.  </p>
 
 ---
 <div align="center">
